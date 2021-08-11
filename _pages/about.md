@@ -20,7 +20,7 @@ Trayectoria Académica
 ======
 Postdoctoral Research Fellow
 Instituto de Ciencias Nucleares - UNAM Contract
-2020
+2020/
 Departamento de Estructura de la Materia
 Investigación de las técnicas de micromanipulación óptica con haces láser estructurados.
 
