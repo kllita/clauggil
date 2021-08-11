@@ -25,15 +25,6 @@ Tesis: Investigación de los efectos no lineales en estructuras bidimensionales 
 
 Universidad Nacional Autónoma de México<br>
 Diplomado en Divulgación y Comunicación de la Ciencia (2018 – 2019)<br>
-Herramientas teóricas y prácticas para ejercer profesionalmente como divulgador de la ciencia.<br>
-Líneas estudiadas:
-1. Lenguajes de la comunicación pública de la ciencia.
-2. Herramientas y conceptos básicos de ciencia para comunicadores.
-3. Bases teóricas y metodológicas de la comunicación pública de la ciencia.
-4. Medios para la comunicación pública de la ciencia.
-5. La ciencia como objeto de estudio.
-6. Temas selectos de ciencia y su comunicación.
-7. Proyectos para la comunicación pública de la ciencia.
 
 
 Centro de Investigación Científica y de Educación Superior de Ensenada<br>
