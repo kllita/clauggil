@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-¡Hola! Soy doctora en Óptica Física. Recién terminé mi estancia posdoctoradal en Biofotónica en la UNAM. He trabajado en las áreas de óptica adaptativa, óptica no lineal, biofotónica y fabricación de nanomateriales durante su estancia en Francia. Pertenezco al Sistema Nacional de Investigadores de México (SNI). 
+¡Hola! Soy científica y doctora en Óptica Física. Recién terminé mi estancia posdoctoradal en Biofotónica en la UNAM. He trabajado en las áreas de óptica adaptativa, óptica no lineal, biofotónica y fabricación de nanomateriales durante su estancia en Francia. Pertenezco al Sistema Nacional de Investigadores de México (SNI). 
 Además de dedicarme a la investigación científica, ha colaborado con diferentes instituciones científicas como el Laboratorio HAWC de rayos gamma, el Instituto de Biología de la UNAM y la organización Clubes de Ciencia México en el desarrollo de proyectos de divulgación y comunicación de la ciencia. Actualmente soy Codirectora de la misma organización (CdeCMx). 
 
 Mi trabajo e investigación
