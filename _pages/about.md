@@ -18,24 +18,19 @@ Mi trabajo e investigación
 
 Trayectoria Académica
 ======
-Postdoctoral Research Fellow<br>
-Instituto de Ciencias Nucleares - UNAM Contract<br>
-2020 <br>
+Postdoctoral Research Fellow, Instituto de Ciencias Nucleares - UNAM <br>
 Departamento de Estructura de la Materia<br>
 Investigación de las técnicas de micromanipulación óptica con haces láser estructurados.<br>
 
 
 Centro de Investigación Científica y de Educación Superior de Ensenada<br>
-Doctorado en Ciencias en Óptica Física<br>
-2016<br>
-Activities and Societies: - Representante Estudiantil de la División de Física Aplicada.<br>
+Doctorado en Ciencias en Óptica Física (2016)<br>
+Activities and Societies: - Representante Estudiantil de la División de Física Aplicada (2011-2015) <br>
 Tesis: Investigación de los efectos no lineales en estructuras bidimensionales con nanopartículas metálicas.<br>
 
 Universidad Nacional Autónoma de México<br>
-Diplomado en Divulgación y Comunicación de la Ciencia.<br>
-2018 – 2019<br>
-Estudio de las herramientas teóricas y prácticas para ejercer profesionalmente como divulgador de la ciencia.<br>
-
+Diplomado en Divulgación y Comunicación de la Ciencia (2018 – 2019)<br>
+Herramientas teóricas y prácticas para ejercer profesionalmente como divulgador de la ciencia.<br>
 Líneas estudiadas:
 1. Lenguajes de la comunicación pública de la ciencia.
 2. Herramientas y conceptos básicos de ciencia para comunicadores.
@@ -47,22 +42,17 @@ Líneas estudiadas:
 
 
 Centro de Investigación Científica y de Educación Superior de Ensenada<br>
-Maestría en Ciencias<br>
+Maestría en Ciencias (2010)<br>
 Óptica Física<br>
-2010<br>
 Tesis: “Construcción de un sensor de frente de onda tipo Shack- Hartmann empleando dos tipos de arreglos de lentes”. <br>
 Key Words: Óptica adaptativa, materiales ferroeléctricos, Kolmogorov Method.<br>
 
 
 Universidad Michoacana de San Nicolás de Hidalgo<br>
-DBachelor of Science (B.Sc.)<br>
+DBachelor of Science (B.Sc.) (2002 – 2007)<br>
 Bachelor of Science in Mathematics and Physics<br>
-2002 – 2007<br>
 Activities and Societies: Thesis: "Polarized light for measuring the complex refraction index"<br>
 Expertise areas: Optics, Photonics, Ellipsometry, Polarization.<br>
-
-
-
 
 
 Hobbies y pasatiempos
