@@ -68,7 +68,8 @@ Expertise areas: Optics, Photonics, Ellipsometry, Polarization.<br>
 Hobbies y pasatiempos
 ------
 Mis hobbies son la repostería y panadería casera, la impresión 3d para fabricar material didáctico y hacer indoor cycling. <br>
-Me gusta también aprender idiomas. Hablo inglés, portugués, francés y un poco de alemán. <br>
+Me gusta también aprender idiomas. <br>
+Hablo inglés, portugués, francés y un poco de alemán. <br>
 También estudié un año fotografía en la Escuela Activia de Fotografía en la Ciudad de México. <br>
 
 
